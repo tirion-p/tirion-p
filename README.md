@@ -19,5 +19,3 @@
 ### Connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-TirionP-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tirion-p-595153105/)](https://www.linkedin.com/in/tirion-p-595153105/)
-
----
