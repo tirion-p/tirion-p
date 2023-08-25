@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 ### Technologies
 #### Experience
 
