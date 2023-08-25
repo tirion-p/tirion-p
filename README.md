@@ -1,4 +1,3 @@
-### Technologies
 #### Experience
 
 ![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
